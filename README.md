@@ -20,6 +20,8 @@ Vytiskněte si přiložené šablony PDF nebo DOCX, nebo si zapisujte do tabulky
 |:-------------:|:------------------:|:--:|
 | [ ![COVIDník A4.pdf](doc/assets/images/COVIDnik_A4.png)](https://github.com/cernekj/COVIDnik/blob/master/COVIDnik_A4.pdf)<br>[COVIDník A4.pdf](https://github.com/cernekj/COVIDnik/blob/master/COVIDnik_A4.pdf)<br>[COVIDník A4.docx](https://github.com/cernekj/COVIDnik/blob/master/COVIDnik_A4.docx) | [ ![COVIDník A5.pdf](doc/assets/images/COVIDnik_A5.png)](https://github.com/cernekj/COVIDnik/blob/master/COVIDnik_A5.pdf)<br>[COVIDník A5.pdf](https://github.com/cernekj/COVIDnik/blob/master/COVIDnik_A5.pdf)<br>[COVIDník A5.docx](https://github.com/cernekj/COVIDnik/blob/master/COVIDnik_A5.docx)  | [ ![COVIDník.xlsx](doc/assets/images/COVIDnik_xlsx.png)](https://github.com/cernekj/COVIDnik/blob/master/COVIDnik.xlsx)<br>[COVIDník.xlsx](https://github.com/cernekj/COVIDnik/blob/master/COVIDnik_A5.pdf) |
 
+samoy..
+
 ## Návod k použití COVIDníku
 
 1. nachystej si místo kam budeš zapisovat: vytiskni si ho, dej do telefonu, nebo jinam, ať je snadno dostupný
