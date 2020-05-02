@@ -2,12 +2,19 @@
 ---
 
 @import "jekyll-theme-tactile";
+
 table {
-	margin-bottom: 2em;
+        margin-bottom: 2em;
 }
 table, td, th, tr {
-	border: none;
+        border: none;
 }
-h1 {
-	color: #c5000c;
+header h1 {
+        color: #c5000c;
+}
+#downloads {
+	display: none;
+}
+header {
+    padding-bottom: 8px;
 }
