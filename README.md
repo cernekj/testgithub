@@ -1,5 +1,3 @@
-# COVIDník
-
 jednoduchý nástroj na boj s nemocí **COVID**-19 - de**ník** setkání
 
 Pravidelným zapisováním si do deníku, s kým jste se setkali, můžete v případě potvrzení nažení nemocí COVID-19 výrazně pomoci hygienikům. Budete vědět, kde jste měli příležitost se nakazit nebo vy nakazit jiného. Možná tím někomu **zachráníte život**. Určitě tím usnadníte ostatním práci.
