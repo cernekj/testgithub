@@ -64,3 +64,4 @@ Náčrt specifikace:
 - volitelně použitelné kontakty, kalendář, GPS, připomínky, síťově připojení jen pro synchronizaci dat - nikam jinam!
 
 ## Do and share!
+.
